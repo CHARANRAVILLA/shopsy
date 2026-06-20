@@ -131,17 +131,7 @@ npm run preview
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-
-Add project screenshots here:
-
-```text
-screenshots/homepage.png
-```
-
----
 
 ## 🌍 Deployment
 
@@ -170,13 +160,7 @@ https://shopsy-eight-ashy.vercel.app
 ### Charan Ravilla
 
 * GitHub: https://github.com/CHARANRAVILLA
-* LinkedIn: Add your LinkedIn profile link
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
+* LinkedIn: https://www.linkedin.com/in/ravillacharan/
 
 ---
 
